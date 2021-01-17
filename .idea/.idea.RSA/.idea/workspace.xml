@@ -4,7 +4,11 @@
     <projectFile>RSA.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb2acb0-37a1-4daf-acab-1a6cc9759e99" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="cdb2acb0-37a1-4daf-acab-1a6cc9759e99" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RSA/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RSA/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RSA/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -71,7 +76,7 @@
       <workItem from="1610028555741" duration="1367000" />
       <workItem from="1610288422204" duration="347000" />
       <workItem from="1610398805302" duration="1001000" />
-      <workItem from="1610893951034" duration="860000" />
+      <workItem from="1610893951034" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1610894167808</created>
